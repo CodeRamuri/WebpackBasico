@@ -6,7 +6,7 @@ export function component()
   element.innerHTML = join
   (
    [
-    "quibo jajaj", "webpack"
+    "Esto puede ser un problemaj ", "webpack"
    ],
    ""
   );
